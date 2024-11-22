@@ -1,3 +1,3 @@
 # inspurcloud-oss-sdk
 
-浪潮云存储Go SDK
+浪潮云对象存储Go SDK
